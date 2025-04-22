@@ -1,0 +1,19 @@
+Change Net Name : Old Net Name=NetK?_3 New Net Name=Net        _1
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_3 Pin=R?-1
+Added Net: Name=NetK?_3
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1000u
+Added Member To Class: ClassName=Sheet1 Member=Component D? Doide_US1M
+Added Member To Class: ClassName=Sheet1 Member=Component D? Doide_MB10S
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
