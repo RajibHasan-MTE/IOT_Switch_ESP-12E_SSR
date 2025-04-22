@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=OUTPUT-1 Pin=K?-1
+Removed Pin From Net: NetName=OUTPUT-1 Pin=K?-1
+Removed Pin From Net: NetName=Relay-1 Pin=R?-2
+Removed Pin From Net: NetName=Relay-1 Pin=R?-2
+Added Component: Designator=C?(MY_CLV_0405)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "C-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volte"; Value = "25v"; VariantName = "[No Variations]"
+Added Component: Designator=C?(MY_E5-13mm)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "C-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volte"; Value = "25v"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Doid_DO-214AC_smd)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/Fast-Recovery-High-Efficiency-Diodes_Vishay-Intertech-US1M-E3-61T_C81191.html?s_z=n_US1M%2520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "US1M-E3/61T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "US1M"; VariantName = "[No Variations]"
+Added Component: Designator=L?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Inductor-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uH"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ?_5 Pin=C?-+
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=NetJ?_5 Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-7
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=Relay-3 Pin=R?-2
+Added Pin To Net: NetName=Relay-4 Pin=R?-2
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetC?_+
+Added Pin To Net: NetName=+12 Pin=C?-+
+Added Pin To Net: NetName=+12 Pin=D?-A
+Added Pin To Net: NetName=+12 Pin=L?-2
+Added Pin To Net: NetName=+12 Pin=R?-2
+Added Net: Name=+12
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Pin To Net: NetName=NetD?_C Pin=R?-1
+Added Net: Name=NetD?_C
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=L?-1
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=R?-1
+Added Pin To Net: NetName=NetJ?_3 Pin=R?-2
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=R?-2
+Added Net: Name=NetJ?_4
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Added Pin To Net: NetName=OUTPUT-3 Pin=K?-1
+Added Net: Name=OUTPUT-3
+Added Pin To Net: NetName=OUTPUT-4 Pin=K?-1
+Added Net: Name=OUTPUT-4
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1000u
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1000u
+Added Member To Class: ClassName=Sheet1 Member=Component D? Doide_US1M
+Added Member To Class: ClassName=Sheet1 Member=Component D? Doide_MB10S
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component L? 100uH
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100

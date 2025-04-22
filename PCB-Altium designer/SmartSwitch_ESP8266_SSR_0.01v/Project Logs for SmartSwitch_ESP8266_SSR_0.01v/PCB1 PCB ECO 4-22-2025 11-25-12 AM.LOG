@@ -1,0 +1,34 @@
+Change component parameters: Designator = "U?" ("U?"); Footprint = "ESP8266-12E/ESP-12E"; UniqueID = "\PEUDGKUM" ("\PEUDGKUM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/WiFi-Modules_Ai-Thinker-ESP-12E_C89297.html?s_z=n_ESP8266-12E%252FESP-12E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C89297"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AI-Thinker"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESP-12E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,16x24mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$ 2.8696"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "ESP-12E"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Doid_DO-214AC_smd)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/Fast-Recovery-High-Efficiency-Diodes_Vishay-Intertech-US1M-E3-61T_C81191.html?s_z=n_US1M%2520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "US1M-E3/61T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "US1M"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOIC-4_MB10S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/Bridge-Rectifiers_MCC-Micro-Commercial-Components-MB10S-TP_C85266.html?s_z=n_MB10S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C85266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MCC(Micro Commercial Components)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MB10S-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-4_MB10S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MBS"; VariantName = "[No Variations]"
+Added Component: Designator=J?(ESOP-8)
+Add component (AddParameter): Name = "Availability"; Value = "in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/AC-DC-Controllers-and-Regulators_UNI-SEMIC-U3211_C41374705.html?s_z=n_U3211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C41374705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UNI-SEMIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "U3211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$ 0.1722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "U3211"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component D? Doide_US1M
+Added Member To Class: ClassName=Sheet1 Member=Component D? Doide_MB10S
+Added Member To Class: ClassName=Sheet1 Member=Component J? U3211

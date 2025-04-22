@@ -1,0 +1,89 @@
+Added Component: Designator=K?(RELAY_G3MB-202P)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/Solid-State-Relays-Triac-Output_Omron-Electronics-G3MB-202PL_C48654.html?s_z=n_G3MB-202P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C48654"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "G3MB-202P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIP-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "G3MB-202P"; VariantName = "[No Variations]"
+Added Component: Designator=K?(RELAY_G3MB-202P)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/Solid-State-Relays-Triac-Output_Omron-Electronics-G3MB-202PL_C48654.html?s_z=n_G3MB-202P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C48654"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "G3MB-202P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIP-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "G3MB-202P"; VariantName = "[No Variations]"
+Added Component: Designator=K?(RELAY_G3MB-202P)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/Solid-State-Relays-Triac-Output_Omron-Electronics-G3MB-202PL_C48654.html?s_z=n_G3MB-202P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C48654"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "G3MB-202P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIP-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "G3MB-202P"; VariantName = "[No Variations]"
+Added Component: Designator=K?(RELAY_G3MB-202P)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.lcsc.com/product-detail/Solid-State-Relays-Triac-Output_Omron-Electronics-G3MB-202PL_C48654.html?s_z=n_G3MB-202P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C48654"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "G3MB-202P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIP-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "G3MB-202P"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(MY_0805)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Res-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=K?-4
+Added Pin To Net: NetName=GND Pin=K?-4
+Added Pin To Net: NetName=GND Pin=K?-4
+Added Pin To Net: NetName=GND Pin=K?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-8
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_3 Pin=R?-1
+Added Net: Name=NetK?_3
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Add Net: Net with name "NetK?_3" already exists
+Added Pin To Net: NetName=N Pin=D?-3
+Added Pin To Net: NetName=N Pin=D?-4
+Added Pin To Net: NetName=N Pin=K?-2
+Added Pin To Net: NetName=N Pin=K?-2
+Added Pin To Net: NetName=N Pin=K?-2
+Added Pin To Net: NetName=N Pin=K?-2
+Added Net: Name=N
+Added Pin To Net: NetName=OUTPUT-1 Pin=K?-1
+Added Pin To Net: NetName=OUTPUT-1 Pin=K?-1
+Added Pin To Net: NetName=OUTPUT-1 Pin=K?-1
+Added Net: Name=OUTPUT-1
+Added Pin To Net: NetName=OUTPUT-2 Pin=K?-1
+Added Net: Name=OUTPUT-2
+Added Pin To Net: NetName=Relay-1 Pin=R?-2
+Added Pin To Net: NetName=Relay-1 Pin=R?-2
+Added Pin To Net: NetName=Relay-1 Pin=R?-2
+Added Pin To Net: NetName=Relay-1 Pin=U?-6
+Added Net: Name=Relay-1
+Added Pin To Net: NetName=Relay-2 Pin=R?-2
+Added Pin To Net: NetName=Relay-2 Pin=U?-7
+Added Net: Name=Relay-2
+Added Pin To Net: NetName=Relay-3 Pin=U?-5
+Added Net: Name=Relay-3
+Added Pin To Net: NetName=Relay-4 Pin=U?-4
+Added Net: Name=Relay-4
+Added Member To Class: ClassName=Sheet1 Member=Component D? Doide_US1M
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component K? Relay-G3MB-202P
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
